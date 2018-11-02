@@ -1,2 +1,6 @@
 First edit.
+<<<<<<< HEAD
 An edit from upstream master.
+=======
+Second edit from featurebranch.
+>>>>>>> d668c074ec8c13e597c19705d70c86701442d3e4
